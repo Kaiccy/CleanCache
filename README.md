@@ -1,5 +1,6 @@
 # CleanCache
 iOS 清除缓存，包括SDWebImage 缓存的图片
+需导入 #import "UIImageView+WebCache.h"
 
 使用：
   在使用时直接调用类方法即可
